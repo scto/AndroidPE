@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">AndroidPE</h1>
 <p align="center">
-  A <b>IDE</b> to edit, preview, and build your projects directly from your mobile device.
+  An <b>IDE</b> to edit, preview, and build your projects directly from your mobile device.
 </p>
 
 
