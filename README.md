@@ -79,7 +79,7 @@
   <img src="SSs/imgs/img3.jpg" width="24%">
   <img src="SSs/imgs/img4.jpg" width="24%">
   <img src="SSs/imgs/img5.jpg" width="24%">
-  <img src="SSs/imgs/img6.jpg" width="24%">
+  <!-- <img src="SSs/imgs/img6.jpg" width="24%"> -->
   <img src="SSs/imgs/img7.jpg" width="24%">
   <img src="SSs/imgs/img8.jpg" width="24%">
   <img src="SSs/imgs/img9.jpg" width="24%">
