@@ -74,16 +74,15 @@
 # 📸 Screenshots
 
 <div align="center" style="overflow:hidden">
-  <img src="SSs/imgs/img01.jpg" width="24%">
-  <img src="SSs/imgs/img02.jpg" width="24%">
-  <img src="SSs/imgs/img03.jpg" width="24%">
-  <img src="SSs/imgs/img04.jpg" width="24%">
-  <img src="SSs/imgs/img05.jpg" width="24%">
-  <img src="SSs/imgs/img06.jpg" width="24%">
-  <img src="SSs/imgs/img07.jpg" width="24%">
-  <img src="SSs/imgs/img08.jpg" width="24%">
-  <img src="SSs/imgs/img09.jpg" width="24%">
-  <img src="SSs/imgs/img10.jpg" width="24%">
+  <img src="SSs/imgs/img1.jpg" width="24%">
+  <img src="SSs/imgs/img2.jpg" width="24%">
+  <img src="SSs/imgs/img3.jpg" width="24%">
+  <img src="SSs/imgs/img4.jpg" width="24%">
+  <img src="SSs/imgs/img5.jpg" width="24%">
+  <img src="SSs/imgs/img6.jpg" width="24%">
+  <img src="SSs/imgs/img7.jpg" width="24%">
+  <img src="SSs/imgs/img8.jpg" width="24%">
+  <img src="SSs/imgs/img9.jpg" width="24%">
 </div>
 
 ---
