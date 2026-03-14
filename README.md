@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SSs/androidpe_app_icon.png" width="140" alt="AndroidPE Logo">
+  <img src="SSs/icon_androidpe_app.png" width="140" alt="AndroidPE Logo">
 </p>
 
 <h1 align="center">AndroidPE</h1>
@@ -74,16 +74,16 @@
 # 📸 Screenshots
 
 <div align="center" style="overflow:hidden">
-  <img src="SSs/img01.jpg" width="24%">
-  <img src="SSs/img02.jpg" width="24%">
-  <img src="SSs/img03.jpg" width="24%">
-  <img src="SSs/img04.jpg" width="24%">
-  <img src="SSs/img05.jpg" width="24%">
-  <img src="SSs/img06.jpg" width="24%">
-  <img src="SSs/img07.jpg" width="24%">
-  <img src="SSs/img08.jpg" width="24%">
-  <img src="SSs/img09.jpg" width="24%">
-  <img src="SSs/img10.jpg" width="24%">
+  <img src="SSs/imgs/img01.jpg" width="24%">
+  <img src="SSs/imgs/img02.jpg" width="24%">
+  <img src="SSs/imgs/img03.jpg" width="24%">
+  <img src="SSs/imgs/img04.jpg" width="24%">
+  <img src="SSs/imgs/img05.jpg" width="24%">
+  <img src="SSs/imgs/img06.jpg" width="24%">
+  <img src="SSs/imgs/img07.jpg" width="24%">
+  <img src="SSs/imgs/img08.jpg" width="24%">
+  <img src="SSs/imgs/img09.jpg" width="24%">
+  <img src="SSs/imgs/img10.jpg" width="24%">
 </div>
 
 ---
