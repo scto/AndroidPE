@@ -82,7 +82,6 @@
 - Multi-module support
 - Module dependency management
 - Activities, Permissions, Services configuration
-- String Translation Editor
 - File explorer with tree view
 
 ### 🖥️ Terminal
@@ -126,6 +125,7 @@ Then choose the target NDK version when prompted.
 ### Optional: Flutter / Dart
 ```bash
 rkb setup flutter
+# NDK installation is required.
 ```
 
 Approximately 2 GB of data will be downloaded.
